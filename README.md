@@ -61,6 +61,7 @@ If you are interested in this repo, any [pull request](https://github.com/xingch
 - Memory Augmented Attention: [Streaming Chunk-Aware Multihead Attention for Online End-to-End Speech Recognition](https://arxiv.org/pdf/2006.01712.pdf) (Interspeech 2020)
 - Optimized Beam Search: [High Performance Sequence-to-Sequence Model for Streaming Speech Recognition](https://arxiv.org/pdf/2003.10022.pdf) (Interspeech 2020)
 - Memory Augmented Attention: [Emformer: Efficient Memory Transformer Based Acoustic Model For Low Latency Streaming Speech Recognition](https://arxiv.org/pdf/2010.10759.pdf) (arXiv 2020, submitted to ICASSP 2021)
+- Memory Augmented Attention: [STREAMING ATTENTION-BASED MODELS WITH AUGMENTED MEMORY FOR END-TO-END SPEECH RECOGNITION](https://arxiv.org/pdf/2011.07120.pdf)
 
 ### Unified Streaming/Non-streaming models
 - [Transformer Transducer: One Model Unifying Streaming And Non-Streaming Speech Recognition](https://arxiv.org/pdf/2010.03192.pdf) (arXiv 2020)
